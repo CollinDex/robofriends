@@ -1,9 +1,9 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Jane Ahuchaogu',
+    username: 'Amara',
+    email: 'jamarachi@gmail.com'
   },
   {
     id: 2,
@@ -13,9 +13,9 @@ export const robots = [
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Sochinazor Eluke',
+    username: 'Machala',
+    email: 'sochimacha@gmail.com'
   },
   {
     id: 4,
@@ -25,9 +25,9 @@ export const robots = [
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Ifunaya Nebo',
+    username: 'Nebo',
+    email: 'funnynebs@yahoo.com'
   },
   {
     id: 6,
@@ -43,7 +43,7 @@ export const robots = [
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Nicholas Runolf',
     username: 'Maxime_Nienow',
     email: 'Sherwood@rosamond.me'
   },
@@ -58,5 +58,11 @@ export const robots = [
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'Obetta Chibuikem',
+    username: 'Dex.RIPPER',
+    email: 'obetscollins@gmail.com'
   }
 ];
